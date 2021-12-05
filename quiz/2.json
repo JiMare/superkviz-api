@@ -1,7 +1,7 @@
 {
   "id": 2,
   "title": "Plemena psů",
-  "image": "basenji.jpg",
+  "image": "colie.jpg",
   "questions": [
     {
       "id": 1,
@@ -23,28 +23,28 @@
     },
     {
       "id": 3,
-      "title": "Kdo měl ty nejlepší kalhotky s kapsami?",
-      "image": "https://github.com/JiMare/superkviz-api/raw/main/images/krtecek.jpg",
-      "answers": ["Zajíček", "Krteček", "Ježeček"],
+      "title": "Jsem velice přátelský, kdo jsem ?",
+      "image": "https://github.com/JiMare/superkviz-api/raw/main/images/boston.jpg",
+      "answers": ["Francouzský buldoček", "Bostonský teriér", "Kontinentální buldok"],
       "correctAnswer": 1
     },
     {
       "id": 4,
-      "title": "Co drakům nejvíc chutná?",
-      "image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/drak.jpg",
+      "title": "Mám vynikající čich, kdo jsem?",
+      "image": "https://github.com/JiMare/superkviz-api/raw/main/images/clumber.jpg",
       "answers": [
-        "Pracovníci magistrátu",
-        "Děti, co si nečistí zuby",
-        "Princezny"
+        "Americký kokršpaněl",
+        "Anglický kokršpaněl",
+        "Clumber španěl"
       ],
       "correctAnswer": 2
     },
     {
       "id": 5,
-      "title": "Kdo je hlavní hrdinka/hrdina Ledového království?",
-      "image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/frozen.jpg",
-      "answers": ["Anna", "Elza", "Olaf"],
-      "correctAnswer": 0
+      "title": "Mám hrubou srst, kdo jsem?",
+      "image": "https://github.com/JiMare/superkviz-api/raw/main/images/deerhound.jpg",
+      "answers": ["Irský vlkodav", "Deerhound", "Velký knírač"],
+      "correctAnswer": 1
     }
   ]
 }
