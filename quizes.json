@@ -7,8 +7,8 @@
 	},
 	{
 		"id": 2,
-		"title": "Pohádkové postavy",
-		"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/snehurka.jpg",
+		"title": "Plemena psů",
+		"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/colie.jpg",
 		"questions": 5
 	},
 	{
