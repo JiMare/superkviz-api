@@ -24,14 +24,14 @@
     {
       "id": 3,
       "title": "Kolik lidí Dexter zabil?",
-      "image": "https://github.com/JiMarey/superkviz-api/raw/main/images/killing.jpg",
+      "image": "https://github.com/JiMare/superkviz-api/raw/main/images/killing.jpg",
       "answers": ["115", "250", "135"],
       "correctAnswer": 2
     },
     {
       "id": 4,
       "title": "Na kom je založena nová Dexterova krycí identita Jim Lindsay?",
-      "image": "https://github.com/JiMarey/superkviz-api/raw/main/images/lindsay.jpg",
+      "image": "https://github.com/JiMare/superkviz-api/raw/main/images/lindsay.jpg",
       "answers": [
         "Masový vrah z 50.let",
         "Autor knih o Dexterovi",
@@ -42,14 +42,14 @@
     {
       "id": 5,
       "title": "Jak se jmenuje Dexterovo nutkání zabíjet?",
-      "image": "https://github.com/JiMarey/superkviz-api/raw/main/images/dark.jpg",
+      "image": "https://github.com/JiMare/superkviz-api/raw/main/images/dark.jpg",
       "answers": ["Temný společník", "Temný pokušitel", "Temný pasažér"],
       "correctAnswer": 2
     },
     {
       "id": 6,
       "title": "Jak se jmenuje Dexterova koza?",
-      "image": "https://github.com/JiMarey/superkviz-api/raw/main/images/goat.jpg",
+      "image": "https://github.com/JiMare/superkviz-api/raw/main/images/goat.jpg",
       "answers": ["Harry", "Sir Vincent the Goat", "Vincent Van Goat the 2nd"],
       "correctAnswer": 2
     }
