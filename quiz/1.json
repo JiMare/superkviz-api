@@ -1,40 +1,57 @@
 {
-	"id": 1,
-	"title": "Ikonické hračky 80. let",
-	"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/moncicak.jpg",
-	"questions": [
-		{
-			"id": 1,
-			"title": "Co je ikonická hračka z 80. let?",
-			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/moncicak.jpg",
-			"answers": [
-				"Kočičák",
-				"Mončičák",
-				"Opičák"
-			],
-			"correctAnswer": 1
-		},
-		{
-			"id": 2,
-			"title": "Co je nejlepší stavebnice na světě?",
-			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/merkur.jpg",
-			"answers": [
-				"Lego",
-				"Duplo",
-				"Merkur"
-			],
-			"correctAnswer": 2
-		},
-		{
-			"id": 3,
-			"title": "Lego měl málokdo, ale každý měl...?",
-			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/igracek.jpg",
-			"answers": [
-				"Igráčka",
-				"Igora",
-				"Ignáce"
-			],
-			"correctAnswer": 0
-		}
-	]
+  "id": 1,
+  "title": "Dexter",
+  "image": "https://github.com/JiMare/superkviz-api/raw/main/images/dexter.png",
+  "questions": [
+    {
+      "id": 1,
+      "title": "Jaké jídlo Dexter připravuje v původních úvodních titulcích?",
+      "image": "https://github.com/JiMare/superkviz-api/raw/main/images/cooking.jpg",
+      "answers": ["Eggs", "Hot dogs", "Bloody soup"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "title": "Jaké měla Deb povolání než se stala detektivem?",
+      "image": "https://github.com/JiMare/superkviz-api/raw/main/images/Debra.png",
+      "answers": [
+        "Prostitutka",
+        "Policajt z mravnostního oddělení",
+        "Servírka"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "title": "Kolik lidí Dexter zabil?",
+      "image": "https://github.com/JiMarey/superkviz-api/raw/main/images/killing.jpg",
+      "answers": ["115", "250", "135"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "title": "Na kom je založena nová Dexterova krycí identita Jim Lindsay?",
+      "image": "https://github.com/JiMarey/superkviz-api/raw/main/images/lindsay.jpg",
+      "answers": [
+        "Masový vrah z 50.let",
+        "Autor knih o Dexterovi",
+        "Americký obhájce"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "title": "Jak se jmenuje Dexterovo nutkání zabíjet?",
+      "image": "https://github.com/JiMarey/superkviz-api/raw/main/images/dark.jpg",
+      "answers": ["Temný společník", "Temný pokušitel", "Temný pasažér"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "title": "Jak se jmenuje Dexterova koza?",
+      "image": "https://github.com/JiMarey/superkviz-api/raw/main/images/goat.jpg",
+      "answers": ["Harry", "Sir Vincent the Goat", "Vincent Van Goat the 2nd"],
+      "correctAnswer": 2
+    }
+  ]
 }
