@@ -49,7 +49,7 @@
     {
       "id": 6,
       "title": "Jak se jmenuje Dexterova koza?",
-      "image": "https://github.com/JiMare/superkviz-api/raw/main/images/goat.jpg",
+      "image": "https://github.com/JiMare/superkviz-api/raw/main/images/goat.png",
       "answers": ["Harry", "Sir Vincent the Goat", "Vincent Van Goat the 2nd"],
       "correctAnswer": 2
     }
