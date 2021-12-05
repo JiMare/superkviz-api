@@ -1,8 +1,8 @@
 [
 	{
 		"id": 1,
-		"title": "Ikonické hračky 80. let",
-		"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/moncicak.jpg",
+		"title": "Dexter",
+		"image": "https://github.com/JiMare/superkviz-api/raw/main/images/dexter.png",
 		"questions": 3
 	},
 	{
