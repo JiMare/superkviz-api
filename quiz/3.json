@@ -1,25 +1,23 @@
 {
 	"id": 3,
-	"title": "Oblíbené nápoje",
-	"image": "pivo.jpg",
+	"title": "IT, React",
+	"image": "react.png",
 	"questions": [
 		{
 			"id": 1,
-			"title": "Nejlepší pivo je...?",
-			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/pivo.jpg",
+			"title": "Kdo napsal první počítačovýá program?",
+			"image": "https://github.com/JiMare/superkviz-api/raw/main/images/program.png",
 			"answers": [
-				"Starobrno",
-				"Plzeň",
-				"Kozel",
-				"Heineken",
-				"Vždyť je to jedno..."
+				"Lord Byron",
+				"dcera lorda Byrona",
+				"Leonardo da Vinci"
 			],
 			"correctAnswer": 4
 		},
 		{
 			"id": 2,
 			"title": "K sýrům se hodí jaké víno?",
-			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/vino.jpg",
+			"image": "https://github.com/JiMare/superkviz-api/raw/main/images/vino.jpg",
 			"answers": [
 				"Červené",
 				"Bílé",
@@ -30,7 +28,7 @@
 		{
 			"id": 3,
 			"title": "Jaká káva je nejlepší?",
-			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/kafe.jpg",
+			"image": "https://github.com/JiMare/superkviz-api/raw/main/images/kafe.jpg",
 			"answers": [
 				"Černá",
 				"Černá s cukrem",
@@ -42,7 +40,7 @@
 		{
 			"id": 4,
 			"title": "Jaký koktejl preferuje 9 z 10 žen?",
-			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/koktejl.jpg",
+			"image": "https://github.com/JiMare/superkviz-api/raw/main/images/koktejl.jpg",
 			"answers": [
 				"Řůžový gin s tonikem",
 				"Mojito",
