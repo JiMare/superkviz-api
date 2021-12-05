@@ -13,8 +13,8 @@
 	},
 	{
 		"id": 3,
-		"title": "Oblíbené nápoje",
-		"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/pivo.jpg",
+		"title": "IT, React",
+		"image": "https://github.com/JiMare/superkviz-api/raw/main/images/react.png",
 		"questions": 4
 	}
 ]
