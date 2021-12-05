@@ -23,10 +23,10 @@
     },
     {
       "id": 3,
-      "title": "Jaká káva je nejlepší?",
-      "image": "https://github.com/JiMare/superkviz-api/raw/main/images/kafe.jpg",
-      "answers": ["Černá", "Černá s cukrem", "Černá s mlékem"],
-      "correctAnswer": 1
+      "title": "Jakým příkazem se zakládá React aplikace?",
+      "image": "https://github.com/JiMare/superkviz-api/raw/main/images/app.png",
+      "answers": ["npm create-react-app", "npx create-react-app", "npx create-react-app myApp"],
+      "correctAnswer": 2
     },
     {
       "id": 4,
