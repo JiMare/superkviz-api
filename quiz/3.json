@@ -1,52 +1,43 @@
 {
-	"id": 3,
-	"title": "IT, React",
-	"image": "react.png",
-	"questions": [
-		{
-			"id": 1,
-			"title": "Kdo napsal první počítačový program?",
-			"image": "https://github.com/JiMare/superkviz-api/raw/main/images/program.png",
-			"answers": [
-				"Lord Byron",
-				"dcera lorda Byrona",
-				"Leonardo da Vinci"
-			],
-			"correctAnswer": 1
-		},
-		{
-			"id": 2,
-			"title": "Které pravidlo neplatí pro JSX?",
-			"image": "https://github.com/JiMare/superkviz-api/raw/main/images/jsx.png",
-			"answers": [
-				"Tag musí být párový nebo uzavřený",
-				"Více prvků musí být obaleno v jednom",
-				"V JSX nelze používat javascriptové výrazy"
-			],
-			"correctAnswer": 2
-		},
-		{
-			"id": 3,
-			"title": "Jaká káva je nejlepší?",
-			"image": "https://github.com/JiMare/superkviz-api/raw/main/images/kafe.jpg",
-			"answers": [
-				"Černá",
-				"Černá s cukrem",
-				"Černá s mlékem",
-				"Cikorka"
-			],
-			"correctAnswer": 1
-		},
-		{
-			"id": 4,
-			"title": "Jaký koktejl preferuje 9 z 10 žen?",
-			"image": "https://github.com/JiMare/superkviz-api/raw/main/images/koktejl.jpg",
-			"answers": [
-				"Řůžový gin s tonikem",
-				"Mojito",
-				"Piña Colada"
-			],
-			"correctAnswer": 2
-		}
-	]
+  "id": 3,
+  "title": "IT, React",
+  "image": "react.png",
+  "questions": [
+    {
+      "id": 1,
+      "title": "Kdo napsal první počítačový program?",
+      "image": "https://github.com/JiMare/superkviz-api/raw/main/images/program.png",
+      "answers": ["Lord Byron", "dcera lorda Byrona", "Leonardo da Vinci"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "title": "Které pravidlo neplatí pro JSX?",
+      "image": "https://github.com/JiMare/superkviz-api/raw/main/images/jsx.png",
+      "answers": [
+        "Tag musí být párový nebo uzavřený",
+        "Více prvků musí být obaleno v jednom",
+        "V JSX nelze používat javascriptové výrazy"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "title": "Jaká káva je nejlepší?",
+      "image": "https://github.com/JiMare/superkviz-api/raw/main/images/kafe.jpg",
+      "answers": ["Černá", "Černá s cukrem", "Černá s mlékem"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "title": "Jaké pravidlo neplatí pro React Hooky?",
+      "image": "https://github.com/JiMare/superkviz-api/raw/main/images/hook.png",
+      "answers": [
+        "Musí se volat jen na nejvyšší úrovni",
+        "Musí se volat jen z class komponent",
+        "Musí se volat jen z funkčních komponent"
+      ],
+      "correctAnswer": 1
+    }
+  ]
 }
